@@ -1,0 +1,10 @@
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\bin\Debug\StringsRandomizer.exe.config
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\bin\Debug\StringsRandomizer.exe
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\bin\Debug\StringsRandomizer.pdb
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.csprojAssemblyReference.cache
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.Form1.resources
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.Properties.Resources.resources
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.csproj.GenerateResource.cache
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.exe
+C:\Users\evgen\source\repos\StringsRandomizer\StringsRandomizer\obj\Debug\StringsRandomizer.pdb
